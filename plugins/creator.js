@@ -20,21 +20,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
+${htjava} *💌 Nama* : Noer
 ${htjava} *✉️ Nama RL* : Rahasia🗿
-${htjava} *♂️ Gender* : Boys
+${htjava} *♂️ Gender* : Girl
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
+${htjava} *⏰ Tanggal lahir* : 28 Januari 2003
+${htjava} *🎨 Umur* : 18
 ${htjava} *🧮 Kelas* : 12
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
-${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
-${htjava} *❤️ Suka* : kucing
-${htjava} *💔 Benci* : autis, seleb
+${htjava} *🧩 Hobby* : Ngeghosting user, Chatting, Ngejudi bareng kamu, Nyolong script bot
+${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep, satu lagi, nyolot
+${htjava} *🗺️ Tinggal* : Indo, Tangerang, Jawa Barat
+${htjava} *❤️ Suka* : Aku suka kamu
+${htjava} *💔 Benci* : Orang munafik kek user
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Fay Cat's Kun
+${htjava} *🇫  ғᴀᴄᴇʙᴏᴏᴋ* : Noer
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
