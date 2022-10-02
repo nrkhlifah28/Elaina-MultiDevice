@@ -67,7 +67,7 @@ global.nameown = 'Nrkholifah' // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289615728196', '❦ Noerrrrr? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6289618728196', '❦ Noerrrrr? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
